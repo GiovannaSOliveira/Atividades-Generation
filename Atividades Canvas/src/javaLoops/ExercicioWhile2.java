@@ -53,7 +53,7 @@ public class ExercicioWhile2 {
 			med /= loop;
 			System.out.println("Total de pessoas Backend: " + s1);
 			System.out.println("Total de mulheres cis e trans, "
-					+ "que são desenvolvedoras forntend: " + s2);
+					+ "que são desenvolvedoras frontend: " + s2);
 			System.out.println("Total de homens cis e trans,"
 					+ " desenvlvedores Mobile, maiores de 40: " + s3);
 			System.out.println("Total de pessoas não binárias, desenvolvedoras "
